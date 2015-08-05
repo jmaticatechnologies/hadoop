@@ -1,0 +1,10 @@
+bin
+input
+output
+target
+*.iml
+*.eml
+*.sc
+*.idea
+.project
+.classpath
